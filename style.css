@@ -1,0 +1,4 @@
+label {
+  display: block; /* Forces label to take full width, pushing input below */
+  margin-bottom: 5px; /* Optional: adds space between label and box */
+}
